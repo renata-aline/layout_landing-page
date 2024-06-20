@@ -9,7 +9,7 @@
 -SASS;
 
 >  Link do layout:
-- https://www.figma.com/file/lSR1m42L9YwzQwzzxKwHpw/THE-MET
+- https://www.figma.com/design/NZQAIydtHo5QkINyGLHNcq/BIKE-New-Version?node-id=0-1&t=i9eUcEv6xxFqGJ1I-0
   > Link do projeto:
 - https://renata-aline.github.io/layout_landing-page/
 
